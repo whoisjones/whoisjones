@@ -29,22 +29,17 @@ jobs:
           committer_branch: main
           committer_message: Update metrics
           filename: metrics.svg
-          repositories_forks: no
-          repositories_affiliations: owner
-          plugin_gists: yes
+          user: whoisjones
+          repo: flair
           plugin_reactions: yes
           plugin_reactions_details: percentage
           plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_ignored: explorer, automater, infographile, member
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_ignored: html, css, tex, cs, java, js, dart
+          plugin_achievements_threshold: C
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
           plugin_habits_days: 14        # Keep only events from last 14 days
           plugin_habits_facts: yes      # Display facts section
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
+          plugin_topics: yes
           config_timezone: Europe/Paris # Set timezone

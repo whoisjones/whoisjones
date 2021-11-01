@@ -5,4 +5,4 @@
 - 📫 How to reach me: [goldejon@informatik.hu-berlin.de](mailto:goldejon@informatik.hu-berlin.de)
 
 
-![Metrics](https://github.com/whoisjones/whoisjones/blob/main/github-metrics.svg)
+![Metrics](https://github.com/whoisjones/whoisjones/blob/main/metrics.svg)

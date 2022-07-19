@@ -1,9 +1,4 @@
-## whoisjones
-🔭 I’m currently researching on: natural language processing // deep learning in [flair](https://github.com/flairNLP/flair)
+I’m currently researching on data-efficient transfer learning, few- and zero-shot methods in natural language processing.
 
-<p align="center">
-  <img src="https://github.com/whoisjones/whoisjones/blob/main/metrics.svg" alt="Stats"/>
-</p>
-
-### 📫 how to reach me: 
+### you can reach me via:
 [goldejon@informatik.hu-berlin.de](mailto:goldejon@informatik.hu-berlin.de) // [LinkedIn](https://www.linkedin.com/in/jonasgolde/)
